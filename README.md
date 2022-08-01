@@ -1,6 +1,16 @@
-### Hi there 👋
+### Piotr Sawczuk
+
+- 🔭 Graduate of IT
+- 🌱 Aspiring Java Developer
+
+Fell free to contact me:
+- piotrsawczuk@10g.pl
+- https://www.linkedin.com/in/piotrsawczuk/
+
 
 <!--
+
+### Hi there 👋
 **PiotrS0/PiotrS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
