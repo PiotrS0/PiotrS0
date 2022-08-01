@@ -3,7 +3,7 @@
 - 🔭 Graduate of IT
 - 🌱 Aspiring Java Developer
 
-Fell free to contact me:
+Feel free to contact me:
 - piotrsawczuk@10g.pl
 - https://www.linkedin.com/in/piotrsawczuk/
 
