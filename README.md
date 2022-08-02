@@ -1,12 +1,6 @@
 ### Piotr Sawczuk
 
 - 🔭 Graduate of IT
-- 🌱 Aspiring Java Developer
-
-Feel free to contact me:
-- piotrsawczuk@10g.pl
-- https://www.linkedin.com/in/piotrsawczuk/
-
 
 <!--
 
